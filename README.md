@@ -5,11 +5,6 @@ A frontend assignment built with **React** and **Vite** for the Tagmango project
 This project is a **responsive landing page** built using **HTML, CSS, and Vanilla JavaScript**.  
 The goal of this assignment was to implement a clean, responsive UI with interactive components and deploy it online.
 
-
-## 🧠 About
-
-This repository contains a modern React application powered by Vite for fast development and optimized build performance. It includes Tailwind CSS and ESLint configuration for a smooth developer experience.
-
 ## 🚀 Live Demo
 
 👉 https://gushwork-fe-assignment.vercel.app
